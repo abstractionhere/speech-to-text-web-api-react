@@ -26,7 +26,7 @@ const App = () => {
         recognition.start();
         break;
 
-      default: setMicStatus(setMicStatus.OFF)
+      default: setMicStatus(micStatusConstants.OFF)
     }
   }
 
