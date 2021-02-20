@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-Open browser and browse ```http://localhost:3000```
+Open ```http://localhost:3000``` in your browser
 
 
 Video Tutorial: https://youtu.be/ZxrkdoUpcyE
