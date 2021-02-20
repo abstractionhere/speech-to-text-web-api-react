@@ -1,5 +1,9 @@
 # Speech to text app using Browser API
 
+The app is created using ReactJS, [Learn More](https://reactjs.org/docs/getting-started.html) from the official docs.
+
+To achieve the result inbuilt browser SpeechRecognition api is used. [Learn more](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) on official MDN Docs
+
 ## Download and install
 
 #### Download
